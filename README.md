@@ -12,6 +12,8 @@ This is a simple mod which can prevent unwanted users from running your mod by o
 
 ## Versions
 The HWID authentication system is not designed for a specific version of minecraft forge, you can use it in any minecraft forge version. 
+Delete HWIDManager.hwidcheck; from ur main class so it sends u the info before hwidmanager does the job.
+
 
 ## Credits
 
