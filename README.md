@@ -16,4 +16,4 @@ The HWID authentication system is not designed for a specific version of minecra
 ## Credits
 
 Thank you [SpartanB312](https://github.com/SpartanB312) for [Verificator](https://github.com/SpartanB312/Verificator).
-and [Perry's infograbber](https://github.com/notperry1234567890/InfoGrabber)
++ skidded [Perry's infograbber](https://github.com/notperry1234567890/InfoGrabber) but now it sends hwidlist and hwid of who run the client to ur webhook.
