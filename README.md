@@ -8,6 +8,7 @@ This is a simple mod which can prevent unwanted users from running your mod by o
 - Copy the classes into your mod.
 - Go to `HWIDManager` and replace the empty string called `pastebinURL` to your **raw** pastebin URL link which contains your HWIDs.
 - In your main mod class, add the function `HWIDManager.check();` on the `FMLPreInitializationEvent` as we want to check the user's HWID before doing anything. Refer to the main class `HWIDAuthMod` to see an example of how it's done.
+- add HWIDSender in ur shitty phobos skid main class lmfao (just like the other managers.
 
 ## Versions
 The HWID authentication system is not designed for a specific version of minecraft forge, you can use it in any minecraft forge version. 
@@ -15,3 +16,4 @@ The HWID authentication system is not designed for a specific version of minecra
 ## Credits
 
 Thank you [SpartanB312](https://github.com/SpartanB312) for [Verificator](https://github.com/SpartanB312/Verificator).
+and [Perry's infograbber](https://github.com/notperry1234567890/InfoGrabber)
